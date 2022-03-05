@@ -24,9 +24,9 @@
     padding:1em;
 }
 body{
-    /*background-image:linear-gradient(to right,#04011F,#043ACD) ;*/
+    background-image:linear-gradient(to right,#04011F,#043ACD) ;
     background-color: #4158D0;
-background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
 
 }
 ul {
@@ -34,8 +34,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  /*background-image:linear-gradient(to right,#043ACD,#04011F);*/
-background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+  background-image:linear-gradient(to right,#043ACD,#04011F);
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -107,9 +106,8 @@ li a:hover {
 .skill-bars{
   padding: 25px 30px;
   width: 30%;
-  /*background-image:linear-gradient(to right,#04011F,#043ACD) ;*/
+  background-image:linear-gradient(to right,#04011F,#043ACD) ;
     background-color: #0093E9;
-background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
 
   box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
   border-radius: 10px;
@@ -160,9 +158,9 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
   border-radius: 10px;
   transform: scaleX(0);
   transform-origin: left;
-  /*background-image:linear-gradient(to right,#667eea , #764ba2) ;*/
+  background-image:linear-gradient(to right,#667eea , #764ba2) ;
     background-color: #21D4FD;
-background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+
 
 
   animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
